@@ -32,7 +32,10 @@ PASS 신규 버전 배포가 감지되었습니다.
 지금부터
 - Monitoring Time : 4시간
 - Check Interval : 10분
+
 Release Monitoring 시작하겠습니다.
+
+(다만, 이번에는 감지만하고.. 리포트는 아직 덜 만들어져서 나중에 보내드릴께요~)
 """
 
 
