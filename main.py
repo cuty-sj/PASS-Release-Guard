@@ -76,7 +76,7 @@ def main():
             print(
                 "Telegram failed"
             )
-
+            print(telegram_result)
 
     else:
 
