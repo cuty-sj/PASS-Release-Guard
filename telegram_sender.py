@@ -33,10 +33,11 @@ iOS
 ➡️ {current['ios_version']}
 
 지금부터
-Release Monitoring 시작합니다.
 
 Monitoring Time : 4시간
 Check Interval : 10분
+
+Release Monitoring 시작합니다. 준비됐나~?!
 """
 
 
