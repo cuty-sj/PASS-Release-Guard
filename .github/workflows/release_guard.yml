@@ -3,6 +3,8 @@ name: PASS Release Guard
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '*/10 * * * *'
 jobs:
   release-check:
 
