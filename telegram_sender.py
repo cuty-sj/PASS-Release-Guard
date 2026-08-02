@@ -23,21 +23,16 @@ def send_release_message(
 
 PASS 신규 버전 배포가 감지되었습니다.
 
-Android
-{previous['android_version']}
-➡️ {current['android_version']}
+- Android 
+{previous['android_version']}  ➡️ {current['android_version']}
 
-
-iOS
-{previous['ios_version']}
-➡️ {current['ios_version']}
+- iOS  
+{previous['ios_version']}  ➡️ {current['ios_version']}
 
 지금부터
-
-Monitoring Time : 4시간
-Check Interval : 10분
-
-Release Monitoring 시작합니다. 준비됐나~?!
+- Monitoring Time : 4시간
+- Check Interval : 10분
+Release Monitoring 시작하겠습니다.
 """
 
 
